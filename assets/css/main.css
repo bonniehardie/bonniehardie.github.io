@@ -27,6 +27,7 @@ section, summary, time, mark, audio, video {
 	font-family: "Source Sans Pro",
 	Helvetica,
 	sans-serif;
+	font-weight: 100;
 }
 
 article, aside, details, figcaption, figure,
