@@ -24,10 +24,6 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	font-family: "Source Sans Pro",
-	Helvetica,
-	sans-serif;
-	font-weight: 400;
 }
 
 article, aside, details, figcaption, figure,
@@ -3614,7 +3610,7 @@ input, select, textarea {
 				right: 0;
 			}
 
-		.copyright {
+		#wrapper > .copyright {
 			position: absolute;
 			bottom: -3rem;
 			right: 0;
@@ -3708,4 +3704,9 @@ input, select, textarea {
 				transform: none;
 			}
 
+	}
+
+	.bonnie {
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-weight: 200;
 	}
