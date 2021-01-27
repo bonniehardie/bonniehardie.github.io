@@ -27,7 +27,7 @@ section, summary, time, mark, audio, video {
 	font-family: "Source Sans Pro",
 	Helvetica,
 	sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 article, aside, details, figcaption, figure,
@@ -3614,7 +3614,7 @@ input, select, textarea {
 				right: 0;
 			}
 
-		#wrapper > .copyright {
+		.copyright {
 			position: absolute;
 			bottom: -3rem;
 			right: 0;
