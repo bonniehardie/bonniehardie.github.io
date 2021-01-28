@@ -3718,7 +3718,8 @@ input, select, textarea {
 		width: 700px;
 	}
 	.xxx {
-		width: 320px;
+		width: 300px;
+		margin: 20px;
 	}
 	.yo {
 		position: fixed;
