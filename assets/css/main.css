@@ -3724,4 +3724,5 @@ input, select, textarea {
 	.yo {
 		position: fixed;
 		bottom: 10px;
+		width: 100%;
 	}
