@@ -3714,5 +3714,6 @@ input, select, textarea {
 		background-color: red;
 		display: flex;
 		flex-direction: row;
-		width: 600px;
+		justify-content: space-between;
+		width: 700px;
 	}
