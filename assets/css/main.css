@@ -3710,9 +3710,13 @@ input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-weight: 400;
 	}
+
 	.flexxin {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
 		width: 750px;
+	}
+	.xxx {
+		width: 300px;
 	}
