@@ -3726,3 +3726,6 @@ input, select, textarea {
 		bottom: 10px;
 		width: 100%;
 	}
+	.yoyo {
+		margin: 0 auto;
+	}
