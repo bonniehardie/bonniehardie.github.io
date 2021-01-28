@@ -3719,7 +3719,7 @@ input, select, textarea {
 	}
 	.xxx {
 		width: 300px;
-		margin-left: 30px;
+		margin-right: 30px;
 	}
 	.yo {
 		position: fixed;
