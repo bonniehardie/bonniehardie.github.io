@@ -3711,7 +3711,6 @@ input, select, textarea {
 		font-weight: 400;
 	}
 	.flexxin {
-		background-color: red;
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
